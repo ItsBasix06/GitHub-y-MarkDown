@@ -92,3 +92,7 @@ Un **repositorio** es el espacio donde se aloja el proyecto, su historial de ver
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
+
+
+ ## Conclusiones
+>MarkDown es editor de texto bastante interesante y me gustó mucho porque puedo hacer muchas cosas juntado HTML y Markdown. Se que al principio es algo complejo pero con la practica se hará para mi un editor bastante chulo.
